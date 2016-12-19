@@ -1,0 +1,35 @@
+Contact List
+Add
+edit
+delete
+File
+New
+Open
+Save
+Save as
+About
+Contact List saved successfully to
+Error to save Contact List
+Saved sucessfully!
+Error to read Contact List
+First name
+last Name
+Phone number
+Work number
+Please enter number in Phone number or Work number Fileds
+Edit Contact
+update
+Add Contact
+save contact
+Search
+Error
+delete
+red
+yellow
+blue
+green
+magenta
+background color:
+Unable to open file
+Error reading file 
+sorted
